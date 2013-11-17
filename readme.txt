@@ -1,5 +1,6 @@
- Code downloaded from html-form-guide.com
- This code may be used and distributed freely without any charge.
+A project aimed at finding state/governmental institutions with ghosts on their payroll. All data currently used is fictional; not real.
+
+Author: Mawuli Sevor
 
  Disclaimer
  ----------
